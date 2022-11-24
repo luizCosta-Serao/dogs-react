@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dogs-react/static/css/main.01a69ac2.css",
-    "main.js": "/dogs-react/static/js/main.69dbcc74.js",
+    "main.js": "/dogs-react/static/js/main.d0e9b910.js",
     "static/css/37.e686a051.chunk.css": "/dogs-react/static/css/37.e686a051.chunk.css",
     "static/js/37.fe19cdc7.chunk.js": "/dogs-react/static/js/37.fe19cdc7.chunk.js",
     "static/js/215.b9b730ba.chunk.js": "/dogs-react/static/js/215.b9b730ba.chunk.js",
@@ -18,13 +18,13 @@
     "static/media/estatisticas.svg": "/dogs-react/static/media/estatisticas.c69dd1e16d1f351b25eb7f01658f7c8e.svg",
     "static/media/adicionar.svg": "/dogs-react/static/media/adicionar.2fe277f9b2182f23c15f5afd7110067a.svg",
     "main.01a69ac2.css.map": "/dogs-react/static/css/main.01a69ac2.css.map",
-    "main.69dbcc74.js.map": "/dogs-react/static/js/main.69dbcc74.js.map",
+    "main.d0e9b910.js.map": "/dogs-react/static/js/main.d0e9b910.js.map",
     "37.e686a051.chunk.css.map": "/dogs-react/static/css/37.e686a051.chunk.css.map",
     "37.fe19cdc7.chunk.js.map": "/dogs-react/static/js/37.fe19cdc7.chunk.js.map",
     "215.b9b730ba.chunk.js.map": "/dogs-react/static/js/215.b9b730ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.01a69ac2.css",
-    "static/js/main.69dbcc74.js"
+    "static/js/main.d0e9b910.js"
   ]
 }
